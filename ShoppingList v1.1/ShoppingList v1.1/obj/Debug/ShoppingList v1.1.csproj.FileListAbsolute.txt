@@ -1,0 +1,12 @@
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\bin\Debug\ShoppingList v1.1.exe.config
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\bin\Debug\ShoppingList v1.1.exe
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\bin\Debug\ShoppingList v1.1.pdb
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList v1.1.csprojResolveAssemblyReference.cache
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList_v1._1.Form1.resources
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList_v1._1.Properties.Resources.resources
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList v1.1.csproj.GenerateResource.Cache
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList v1.1.exe
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList v1.1.pdb
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList_v1._1.Form2.resources
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList_v1._1.AboutBox1.resources
+E:\Университет\3 семестр\Технологии программирования\Курсовая работа\ShoppingList v1.1\ShoppingList v1.1\obj\Debug\ShoppingList_v1._1.ShoppingList.resources
